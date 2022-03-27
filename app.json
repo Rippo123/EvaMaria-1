@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/farshadpyt/EvaMaria",
-    "repository": "https://github.com/farshadpyt/EvaMaria",
+    "repository": "https://github.com/Probotmaker8/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
